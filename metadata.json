@@ -1,0 +1,5 @@
+{
+  "name": "Math Crossword Challenge",
+  "description": "An interactive math crossword puzzle game. Drag and drop numbers to solve interconnected equations. Mobile-optimized with real-time feedback.",
+  "requestFramePermissions": []
+}
